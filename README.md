@@ -32,6 +32,9 @@ A practical session is used in a class environment in the form of a case study (
 * Ganesh Vaidyanathan ( 2013 ): Project Management: Process, Technology, and Practice, Prentice Hall.
 * Avison, David ( 2009 ): Information Systems Project Management, SAGE Publications, Inc.
 
+## Slides
+added slides section
+
 ## Instructor detail
 Osama Hosameldeen
 mohandesosama@yahoo.com
