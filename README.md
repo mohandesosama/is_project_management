@@ -15,15 +15,15 @@ After completing this course the student will be able to:
 * Work and learn how to collaborate as a team to solve real life problems
 
 ## Course Outline
-. Introduction to Project Management
-. The Project Management Lifecycle
-. Managing Project Teams
-. Managing Project Communication
-. Lead a team to fill some specific project result
-. Project Initiation and Planning
-. Managing Project Scheduling, Resource, Risk, Control & Closure
-. Project Execution, Control & Closure
-. Class practical work project and to be evaluated the developed systems
+* Introduction to Project Management
+* The Project Management Lifecycle
+* Managing Project Teams
+* Managing Project Communication
+* Lead a team to fill some specific project result
+* Project Initiation and Planning
+* Managing Project Scheduling, Resource, Risk, Control & Closure
+* Project Execution, Control & Closure
+* Class practical work project and to be evaluated the developed systems
 
 ## Session Activity:
 A practical session is used in a class environment in the form of a case study (or a mini-project) using as reference the above course outline
