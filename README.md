@@ -33,7 +33,7 @@ A practical session is used in a class environment in the form of a case study (
 * Avison, David ( 2009 ): Information Systems Project Management, SAGE Publications, Inc.
 
 ## Slides
-Slides are found on current repository, you can reach directly (https://github.com/mohandesosama/is_project_management/tree/master/IS-PM-Slides)[here]
+Slides are found on current repository, you can reach directly (https://github.com/mohandesosama/is_project_management/tree/master/IS-PM-Slides)
 
 ## Instructor detail
 Osama Hosameldeen
