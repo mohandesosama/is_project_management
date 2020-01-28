@@ -1,4 +1,4 @@
-# Information Systems Project Management
+# IS 362 Information Systems Project Management
 | course number | course title | Credit Hours | Lecture Hours | Lab Hours | Prerequests |
 |---------------|--------------|--------------|---------------|-----------|-------------|
 |IS 362        |Information Systems Project Management|3 |3 |0 | IS 244 |
@@ -31,3 +31,7 @@ A practical session is used in a class environment in the form of a case study (
 ## Textbooks
 * Ganesh Vaidyanathan ( 2013 ): Project Management: Process, Technology, and Practice, Prentice Hall.
 * Avison, David ( 2009 ): Information Systems Project Management, SAGE Publications, Inc.
+
+## Instructor detail
+Osama Hosameldeen
+mohandesosama@yahoo.com
