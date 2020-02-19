@@ -39,7 +39,6 @@ Slides are found on current repository, you can reach directly (https://github.c
 
 ## Instructor detail
 Osama Hosameldeen
-mohandesosama@yahoo.com
 
-## References 
-* Grip for editing markdown (md) files, [[Link]](https://github.com/joeyespo/grip)
+Email: mohandesosama@yahoo.com
+
