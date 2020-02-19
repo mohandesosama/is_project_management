@@ -34,6 +34,8 @@ A practical session is used in a class environment in the form of a case study (
 
 ## Slides
 Slides are found on current repository, you can reach directly (https://github.com/mohandesosama/is_project_management/tree/master/IS-PM-Slides)
+## Multimedia
+* Brainstorming 635 method [[Video]](https://www.youtube.com/watch?v=TR1i1PPd8ZU)
 
 ## Instructor detail
 Osama Hosameldeen
