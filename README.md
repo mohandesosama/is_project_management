@@ -34,6 +34,11 @@ A practical session is used in a class environment in the form of a case study (
 
 ## Slides
 Slides are found on current repository, you can reach directly (https://github.com/mohandesosama/is_project_management/tree/master/IS-PM-Slides)
+* Chapter 1: Projects and project management [[Slides with Arabic Notes]](https://github.com/mohandesosama/is_project_management/blob/master/Slide%20Notes/chapter%201.pdf)
+* Chapter 2: Process and Methods [[Slides with Arabic Notes]](https://github.com/mohandesosama/is_project_management/blob/master/Slide%20Notes/chapter%202.pdf)
+* Chpater 3: Project Management Tools [[Slides with Arabic Notes]](https://github.com/mohandesosama/is_project_management/blob/master/Slide%20Notes/chapter%203.pdf)
+* Chapter 4: Project Initiation [[Slides with Arabic Notes]](https://github.com/mohandesosama/is_project_management/blob/master/Slide%20Notes/chapter%204.pdf)
+
 ## Multimedia
 * Brainstorming 635 method [[Video]](https://www.youtube.com/watch?v=TR1i1PPd8ZU)
 
