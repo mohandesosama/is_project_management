@@ -28,7 +28,7 @@ After completing this course the student will be able to:
 ## Session Activity:
 A practical session is used in a class environment in the form of a case study (or a mini-project) using as reference the above course outline
 
-## Textbooks
+## Textbooks (two main books)
 * Ganesh Vaidyanathan ( 2013 ): Project Management: Process, Technology, and Practice, Prentice Hall.
 * Avison, David ( 2009 ): Information Systems Project Management, SAGE Publications, Inc.
 
